@@ -16,10 +16,6 @@ const searchUsers=async(searchTerm)=>{
         console.error("search error:",err);
     }finally{
         setLoading(false);
-
-
-
-        
     }
     };
     searchUsers();
