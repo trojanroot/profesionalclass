@@ -102,7 +102,7 @@ function add(){
     },100);
     console.log("Complete")
 }
-
+ console.log("Happy programmer day");
 add();
 // promise
 // .then
