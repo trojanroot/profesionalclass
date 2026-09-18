@@ -105,6 +105,9 @@ function add(){
 //react
  console.log("Happy programmer day");
 add();
+
+
+
 // promise
 // .then
 // .asycn
